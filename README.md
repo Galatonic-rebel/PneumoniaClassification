@@ -135,8 +135,5 @@ numpy
 
 ## Limitations
 
-- Validation set is limited to 16 images due to the original dataset structure — validation metrics should be interpreted with caution
-- NORMAL recall of 0.51 indicates the model is biased toward predicting pneumonia, a known effect of class imbalance
-
-
-/github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourprofile)
+- Validation set is limited to 16 images due to the original dataset structure — validation metrics should be interpreted with caution.
+- NORMAL recall of 0.51 indicates the model is biased toward predicting pneumonia, a known effect of class imbalance.
