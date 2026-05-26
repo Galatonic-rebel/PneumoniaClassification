@@ -110,11 +110,11 @@ git clone https://github.com/yourusername/pneumonia-classifier.git
 pneumonia-classifier/
 ├── pneumonia_classifier.ipynb   ← main notebook
 ├── README.md
-└── images/
-    ├── training_curves.png
-    ├── confusion_matrix.png
-    ├── roc_curve.png
-    └── gradcam.png
+├── training_curves.png
+├── confusion_matrix.png
+├── roc_curve.png
+├── gradcam_pneumonia.png
+└── gradcam.png
 ```
 
 ---
