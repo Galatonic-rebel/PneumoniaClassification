@@ -2,7 +2,7 @@
 A lightweight CNN classifier trained on chest X-ray images for binary pneumonia detection.
 ---
 
-## Project Overview
+# Project Overview
 
 This project implements an end-to-end deep learning pipeline for automated pneumonia detection from chest X-ray images. The model is designed to be lightweight and interpretable, making it suitable for deployment.
 ---
@@ -107,7 +107,7 @@ git clone https://github.com/yourusername/pneumonia-classifier.git
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 pneumonia-classifier/
@@ -122,7 +122,7 @@ pneumonia-classifier/
 
 ---
 
-## 🛠️ Dependencies
+## Dependencies
 
 ```
 torch
@@ -136,15 +136,10 @@ numpy
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - Validation set is limited to 16 images due to the original dataset structure — validation metrics should be interpreted with caution
 - NORMAL recall of 0.51 indicates the model is biased toward predicting pneumonia, a known effect of class imbalance
-- A production system would benefit from transfer learning (e.g. ResNet, DenseNet) and a larger validation set
 
----
 
-## 👤 Author
-
-**Your Name**  
-[GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourprofile)
+/github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourprofile)
