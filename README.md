@@ -1,11 +1,10 @@
 # PneumoniaClassification
-A lightweight CNN classifier trained on chest X-ray images for binary pneumonia detection.
 ---
+A lightweight CNN classifier trained on chest X-ray images for binary pneumonia detection.
 
 # Project Overview
-
-This project implements an end-to-end deep learning pipeline for automated pneumonia detection from chest X-ray images. The model is designed to be lightweight and interpretable, making it suitable for deployment.
 ---
+This project implements an end-to-end deep learning pipeline for automated pneumonia detection from chest X-ray images. The model is designed to be lightweight and interpretable.
 
 ##  Dataset
 
@@ -88,7 +87,7 @@ Output: Linear(64→2)
 
 ## Grad-CAM Visualization
 
-Grad-CAM (Gradient-weighted Class Activation Mapping) was used to visualize which regions of the X-ray the model focuses on when making predictions. This adds interpretability to the model — a critical requirement in medical imaging applications.
+Grad-CAM (Gradient-weighted Class Activation Mapping) was used to visualize which regions of the X-ray the model focuses on when making predictions. 
 
 ---
 
