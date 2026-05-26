@@ -1,9 +1,7 @@
 # PneumoniaClassification
----
 A lightweight CNN classifier trained on chest X-ray images for binary pneumonia detection.
 
 # Project Overview
----
 This project implements an end-to-end deep learning pipeline for automated pneumonia detection from chest X-ray images. The model is designed to be lightweight and interpretable.
 
 ##  Dataset
